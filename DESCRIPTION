@@ -1,0 +1,10 @@
+Package: datelyr
+Type: Package
+Title: Date dimensions
+Version: 0.1.0
+Authors@R: person("Armen", "Donigian", email = "donigian@gmail.com", role = c("aut", "cre"))
+Description: Date tim
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: testthat
